@@ -1,8 +1,10 @@
 <h3>Exercício: Testes de API</h3>
 
-<p>Subir o servidor ServeRest localhost;
-Mapear os principais cenários da funcionalidade Usuários;
-Considere também, pelo menos 2 cenários negativos;
-Inclua asserções em todos os testes;
-Fazer os testes com os principais verbos (GET, POST, DELETE, PUT);
-Ao final, salvar sua collection em um arquivo .JSON.</p>
+<p>
+Subir o servidor ServeRest localhost;<br />
+Mapear os principais cenários da funcionalidade Usuários;<br />
+Considere também, pelo menos 2 cenários negativos;<br />
+Inclua asserções em todos os testes;<br />
+Fazer os testes com os principais verbos (GET, POST, DELETE, PUT);<br />
+Ao final, salvar sua collection em um arquivo .JSON.<br />
+</p>
